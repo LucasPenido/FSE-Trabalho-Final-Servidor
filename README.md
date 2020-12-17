@@ -40,8 +40,8 @@ Para sair do programa digite o número 0.
 ![tela](https://i.imgur.com/1XPSu4O.png)
 
 ### Cadastro de Cliente
-Quando um cliente estiver pedindo para se cadastrar, aparecerá uma notificação no menu de notificações. Para cadastrar o cliente aperte "c".
+Quando um cliente estiver pedindo para se cadastrar, aparecerá uma notificação no menu de notificações. Para cadastrar o cliente aperte "c".  
 ![notificações](https://i.imgur.com/KvrzoqU.png)
 
-Assim, aparecerá um menu para que você possa cadastrá-lo
+Assim, aparecerá um menu para que você possa cadastrá-lo  
 ![menu cadastro](https://i.imgur.com/thtAqIw.png)
